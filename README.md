@@ -1,4 +1,4 @@
-# Remote-VNC-ubuntu
+# Remote-VNC-Ubuntu
 
 Setup basic VNC for ubuntu 18. This install vino, sets preferences for access from anywhere and doesn't require encryption
 
